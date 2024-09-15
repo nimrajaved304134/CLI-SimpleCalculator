@@ -1,0 +1,16 @@
+{
+  "name": "simple-cli-calculator",
+  "version": "1.0.0",
+  "description": "A simple calculator with Typecsript , Node.js and Inquirer",
+  "main": "index.js",
+  "type": "module",
+  "bin":"index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nimra",
+  "license": "MIT",
+  "dependencies": {
+    "@inquirer/prompts": "^5.5.0"
+  }
+}
